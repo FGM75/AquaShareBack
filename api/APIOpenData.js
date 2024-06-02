@@ -1,5 +1,4 @@
 require("dotenv").config();
-const debug = require("debug")("tmb:api");
 const fetch = require("node-fetch");
 
 const urlAPI = process.env.API_URL_OPENDATA;
