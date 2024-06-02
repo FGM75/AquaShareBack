@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 .env
-.aquashare-94e77-firebase-adminsdk-omjde-55837a3fbc.json
+aquashare-94e77-firebase-adminsdk-omjde-55837a3fbc.json
+
 # dependencies
 /node_modules
 /.pnp
